@@ -1,0 +1,21 @@
+Feeling alone in this little world? You can now make new friends everywhere!
+
+[b]FERATURES[/b]
+- CLONING GOAT: You can create clones of the body you are currently licking.
+
+[b]CHARACTERISTICS[/b]
+- When you are licking a body press [b][R] to clone[/b] it.
+- Only the bodies of living things can be cloned.
+- The cloned body will be placed behind you and face the same direction as you.
+- Humans are usually scared when you just cloned them, but they will come back to the place where you spawn them if you wait a moment.
+
+[b]KNOWN BUGS[/b]
+- Too many human evil IAs can crash your game! [spoiler]The real reason is that the path finding of human's IA can sometimes end up in an infinite loop, and creating more humans give you more chance to encounter this bug.[/spoiler]
+
+[b]FAQ[/b]
+- I would like to clone the others objects I can lick as well, is it possible?
+[i]Sadly no, I tried, but the way objects are created make it impossible.[/i]
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod took a bit longer than expected to complete: I lost a lot of time trying to clone kActros and interpActors before I went to some forum explaining why it was impossible >_<
+Anyway cloning NPCs is easy, giving correct collisions for the clones required some work but I got the idea in the end. I was not planning to clone NPC's IA but I randomly found a way to do it so I added this feature for more fun.[/quote]
